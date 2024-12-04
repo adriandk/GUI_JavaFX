@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.fxml.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx-swt.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.swing.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.media.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.base.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.graphics.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.controls.jar",
+        "d:\\adrian\\TEL-U\\modul3\\tools\\openjfx-17.0.12_windows-x64_bin-sdk\\javafx-sdk-17.0.12\\lib\\javafx.web.jar"
+    ],
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.languages.allowGuestCommandControl": true,
+    "liveshare.openSharedServers": false,
+    "liveshare.publishWorkspaceInfo": true,
+}
